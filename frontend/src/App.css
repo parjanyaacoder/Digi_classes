@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin:0px;
+  padding:0px;
+
+}
+.App{
+
+  padding:'10px';
+}
+
+
+
+body {
+  overflow-x: hidden; /* Hide scrollbars */
+}
+
+
+
+
+
+
